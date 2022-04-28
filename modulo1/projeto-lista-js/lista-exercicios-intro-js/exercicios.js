@@ -19,8 +19,8 @@ function imprimeMensagem() {
 // EXERCÍCIO 01
 function calculaAreaRetangulo() {
   // implemente sua lógica aqui
-   const altRet = prompt("Insira a altura do triangulo")
-   const largRet = prompt("Insira a largura do triangulo")
+   const altRet = prompt("Qual a altura do triangulo")
+   const largRet = prompt("Qual a largura do triangulo")
 
    console.log(altRet * largRet)
 }
