@@ -3,20 +3,27 @@
 //    -> NÃO MODIFIQUE OS PARÂMETROS DAS FUNÇÕES!!! ()
 
 
+
 // EXERCÍCIO 01
 function retornaTamanhoArray(array) {
-   
+   const quantElementArray = array.length
+   return quantElementArray
 }
+retornaTamanhoArray()
 
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
-  
+  const arrayInvertido = array.reverse()
+  return arrayInvertido
 }
+retornaArrayInvertido()
 
 // EXERCÍCIO 03
 function retornaArrayOrdenado(array) {
-  
+  const arrayCrescente = array.sort()
+  return arrayCrescente
 }
+retornaArrayCrescente()
 
 // EXERCÍCIO 04
 function retornaNumerosPares(array) {
