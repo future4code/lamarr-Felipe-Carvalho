@@ -1,0 +1,43 @@
+// LABENU - CURSO DE PROGRAMAÇÃO FULLSTACK
+// TURMA LAMARR - NOTURNO
+// ALUNO: Felipe Alencar de Carvalho
+// PROJETO DE FIXAÇÃO BLACKJACK
+// Exercícios de Resolvendo Problemas
+
+O Trabalho do desenvolvedor de software deve ser extremamente organizado e cumprir etapas fundamentais e importantes para a boa execução de todas
+as tarefas a ele atribuídas. Dentre as tarefas mais importantes está a compreensão do problema apresentado pelo mundo real e que será objeto do 
+sistema desenvolvido. Atendendo a esta premissa, foi apresentado na aula "Resolvendo Problemas" os 7 passos fundamentais para que o desenvolvedor 
+consiga organizar a compreensão do problema e traduzí-lo em linhas de código. Os passos apresnetados foram:
+
+TER ATENÇÃO NO ENUNCIADO
+O problema, geralmente, será apresnetado na forma de texto. A interpretação deste texto é a primeira interação do desenvolvedor com a dor que ele
+precisa resolver. Esta dor pode estar associada a obtenção de alguma informação ou a transformação de algum dado em informação relevante para
+a tomada de decisões em diversas áreas. Ler atentamente, mais de uma vez, o enunciado de cada problema apresnetado vai ajudar a cumprir com mais 
+facilidade o 2° passo desta lista;
+
+RETIRAR INFORMAÇÕES RELEVANTES
+Após a leitura atenta e repetida do enunciado, é o momento de fazer uma filtragem das informações que são mais relevantes para o entendimento e 
+produção do código. Cabe fazer uma filtragem buscando dados e informações que serão processadas, perguntas feitas no enunciado, se há ou não 
+participação do usuário no input de dados ou se os dados já foram dados. Cabe também se certificar do entendimento de todas as informações que
+indicam o que o seu programa deve gerar. Isso vai ajudar na 3° etapa deste fluxo de sete passos;
+
+PENSAR ENTRADAS E SAÍDAS
+Parte mais objetiva do trabalho do programador ao realizar este passo a passo. Aqui o programador deve registrar objetivamente quais são os dados 
+que vão entrar no sistema e os dados que serão extraídos pelo usuário do sistema. Números, strings, booleans e todo tipo de informação que pode ser 
+obtida com os comandos return e console.log, deve ser registrada e permanecerem na mente do desenvolvedor;
+
+FAZER UM ESQUEMA VISUAL
+Esta parte tem por finalidade ajudar no entendimento do fluxo de seu programa. É fato que nossa mente funciona mais visualmente. Por isso, programas 
+desenhados através de esquemas podem ajudar e muito no entendimento do problema e também no momento de iniciar a codagem. 
+
+CRIAR O CÓDIGO FEIO
+Está na hora de colocar a mão na massa e fazer a mágica aocntecer. mas não se cobre tanto. Faça o código que consegue, é isso que esta etapa do nosso 
+passo a passo tem a nos mostrar. Aqui você deve se preocupar primeiramente em resolver o problema apresnetado. Ainda sem se preocupar com as formas mais 
+corretas, limpas ou sintéticas de escrever seu código. fazer desta forma com certeza ira facilitar seu engajamento e envolvimento na solução do probelma.
+
+TESTAR FORÇA BRUTA
+É hora de testar seu código feio. Se ele estiver funcionando esta legal demais. Você ocnseguiu resolver o problema que foi aprensentado. Isso já é muito 
+bom. Caso ele não esteja funcionando você deve voltar pro código e trabalhar mais, memso que em sua versão feia, para que ele funcione.
+
+REFATORAR
+Uma vez funcionando agora vc tem tempo e calma para refatorar, ou seja, refazer seu código com sintaxes mais curtas e resumidas. 
