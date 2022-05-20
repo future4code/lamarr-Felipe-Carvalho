@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Adicionar Produto</title>
+</head>
+<body>
+    <header>
+        <header>
+            <h1>Bem-vind@ ao sistema de gestão da <em>Loja do Mergulhador</em>!</h1>          
+        </header>
+    </header>
+    
+    <nav>
+        <a href="index.html">Página Inicial</a>
+        <a href="ctrl-estoque.html">Controle de Estoque</a>
+        <a href="add-produto.html">Adicionar Produto</a>
+        <a href="funcionarios.html">Funcionários</a>
+        <a href="add-funcionarios.html">Adicionar Funcionários</a>
+    </nav>
+
+    
+    <h2>Adicionar Colaborador</h2>
+
+    <p> 
+        Esta página é acessível apenas aos gerentes gerais de RH<b>Preencha estas informações com atenção.</b> Caso não encontre as informações solicitadas no cadastro, consulte seu supervisor.
+    </p>
+    <form action="">
+            <label for="link-foto">Link para foto: </label>
+            <input type="url" id="link-foto" name="link-foto">
+            <br>
+     
+            <label for="nome">Nome do Colaborador: </label>
+            <!-- Adicione o id apropriado para o input abaixo -->
+            <input type="text" id="nome" name="nome">
+            <br>
+
+            <label for="setor">Setor em que trabalha: </label>
+            <!-- Adicione o id apropriado e o type para receber números abaixo -->
+            <input type="text" id="setor" name="setor">
+            <br>
+
+            <!-- Preencha as propriedades necessárias para os elementos abaixo -->
+            <label for="código">Código do colaborador </label>
+            <input type="number" id="código" name="código">
+            <br>
+
+            <!-- Adicione ao type do botão abaixo o valor para que ele submeta o formulário -->
+            <button type="submit">Cadastrar Colaborador</button>
+
+    </form>
+
+</body>
+</html>
