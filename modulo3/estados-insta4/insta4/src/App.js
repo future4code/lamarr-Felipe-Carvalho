@@ -10,21 +10,23 @@ align-items:center;
 flex-direction:column;
 padding: 10px;
 margin: 10px;
-background-color:grey;
+border-radius:20px;
+background-color:green;
 
 label{
   padding:10px;
   font-family: Arial, Helvetica, sans-serif;
   font-size:30px;
 }
+
 input{
   text-align: center;
   height:5vh;
   width:20vw;
   border-radius:20px;
   font-style:bold;
-  
 } 
+
 button{
   font-weight:bold;
   font-size:large;
@@ -33,6 +35,7 @@ button{
   height:7vh;
   border-radius:40px;
 }
+
 button:hover{
   cursor:pointer;
   background-color:lightcoral;
@@ -116,6 +119,5 @@ function App() {
     </div>
   )
 }
-
 
 export default App;
